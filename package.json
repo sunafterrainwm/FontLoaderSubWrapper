@@ -6,7 +6,7 @@
 		"init": "powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -File install.ps1",
 		"deinit": "powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -File uninstall.ps1"
 	},
-	"packageManager": "pnpm@8.14.1",
+	"packageManager": "pnpm@8.15.5",
 	"dependencies": {
 		"ffi-napi": "^4.0.3"
 	},
